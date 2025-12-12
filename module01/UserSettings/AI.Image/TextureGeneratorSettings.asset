@@ -18,48 +18,48 @@ MonoBehaviour:
         serializedData:
         - key: 0
           value:
-            rid: 177537315191390208
+            rid: 177537296858087427
         - key: 1
           value:
-            rid: 177537315191390209
+            rid: 177537296858087428
         - key: 2
           value:
-            rid: 177537315191390210
+            rid: 177537296858087429
         - key: 3
           value:
-            rid: 177537315191390211
+            rid: 177537296858087430
         - key: 4
           value:
-            rid: 177537315191390212
+            rid: 177537296858087431
         - key: 5
           value:
-            rid: 177537315191390213
+            rid: 177537296858087432
       previewSettings:
         sizeFactor: 1
   references:
     version: 2
     RefIds:
-    - rid: 177537315191390208
+    - rid: 177537296858087427
       type: {class: ModelSelection, ns: Unity.AI.Image.Services.Stores.States, asm: Unity.AI.Image}
       data:
-        modelID: 5b5b2af1-6ea4-4266-b087-cc9f3bf4f450
-    - rid: 177537315191390209
+        modelID: 
+    - rid: 177537296858087428
       type: {class: ModelSelection, ns: Unity.AI.Image.Services.Stores.States, asm: Unity.AI.Image}
       data:
-        modelID: 5b5b2af1-6ea4-4266-b087-cc9f3bf4f450
-    - rid: 177537315191390210
+        modelID: 
+    - rid: 177537296858087429
       type: {class: ModelSelection, ns: Unity.AI.Image.Services.Stores.States, asm: Unity.AI.Image}
       data:
-        modelID: 5b5b2af1-6ea4-4266-b087-cc9f3bf4f450
-    - rid: 177537315191390211
+        modelID: 
+    - rid: 177537296858087430
       type: {class: ModelSelection, ns: Unity.AI.Image.Services.Stores.States, asm: Unity.AI.Image}
       data:
-        modelID: 6752dbaa-b3f8-4076-87e9-c6fdd2b012c7
-    - rid: 177537315191390212
+        modelID: 
+    - rid: 177537296858087431
       type: {class: ModelSelection, ns: Unity.AI.Image.Services.Stores.States, asm: Unity.AI.Image}
       data:
-        modelID: 6752dbaa-b3f8-4076-87e9-c6fdd2b012c7
-    - rid: 177537315191390213
+        modelID: 
+    - rid: 177537296858087432
       type: {class: ModelSelection, ns: Unity.AI.Image.Services.Stores.States, asm: Unity.AI.Image}
       data:
         modelID: 
